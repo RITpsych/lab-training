@@ -7,3 +7,5 @@ My name is Ali Fitch and my favorite soup is pho.
 My name is Dustin Haraden and my favorite soup is Spicy Chicken Ramen. 
 
 My name is Marjorie Prokosch and my favorite soup is Tom Kha (Tofu).
+
+Joe likes New England Clam Chowder.
